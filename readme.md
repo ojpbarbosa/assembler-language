@@ -17,3 +17,6 @@ This collection contains every 8086 16-bit MASM-TASM assembly-written programs I
 - [TASM (Turbo Assembler)](https://wikipedia.org/wiki/Turbo_Assembler)
 - [Microsoft DOS](https://wikipedia.org/wiki/MS-DOS)
 - [DOSBox](https://www.dosbox.com)
+
+## References
+- [Pong game](https://github.com/ojpbarbosa/pong)
